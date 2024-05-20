@@ -1,6 +1,6 @@
 # Dacon_Contest
 
-데이콘에서 주최한 이커머스 고객분석 세그먼트 아이디어 경진대회 1등 수상작입니다.
+데이콘에서 2024년 2월에 주최한 "이커머스 고객분석 세그먼트 아이디어 경진대회" 1등 수상작입니다.
 
 대회 URL: https://dacon.io/competitions/official/236222/overview/description
 
