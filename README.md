@@ -3,6 +3,7 @@
 **데이콘에서 2024년 2월에 주최한 "이커머스 고객분석 세그먼트 아이디어 경진대회" 1등 수상작입니다.**
 
 **주제: 신규 LRFMV 모델을 이용한 고객 세분화 및 연관 분석 & 솔루션 제안**
+
 대회 URL: https://dacon.io/competitions/official/236222/overview/description
 
 기존과 차별화된 LRMFV 모델을 활용하여 고객 세분화 및 연관 분석을 진행하였습니다.
