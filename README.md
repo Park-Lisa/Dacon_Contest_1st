@@ -4,7 +4,7 @@
 
 **주제: 신규 LRFMV 모델을 이용한 고객 세분화 및 연관 분석 & 솔루션 제안**
 
-
+아이디어 제안서: https://github.com/Park-Lisa/Dacon_Contest_1st/blob/main/Idea.pdf
 
 기존과 차별화된 LRMFV 모델을 활용하여 고객 세분화 및 연관 분석을 진행하였습니다.
 
